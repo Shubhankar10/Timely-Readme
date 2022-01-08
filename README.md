@@ -35,17 +35,21 @@ It accepts student data allowing them to register to the application. This appli
 <b> Functionality & Concepts used : </b>
 
 The App has a very simple and interactive interface which helps the students get notification accordingly. Following are few android concepts used to achieve the functionalities in app :- 
-- Constraint Layout : Most of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
 - Simple & Easy Views Design : Use of Textviews, familiar audience EditText with hints and interactive buttons made it easier for students to register or sign-in by just entering general details only once.
 - Notification Manager : Function which sends notification as per time.
-- Splash Screen : Some animation at the beginning for being user-friendly.
 - Viewmodel & Fragments : To make it more interactive and responsive.
 - Navigation Bar : Application also uses App Navigation to switch between different screens.
+- Navigation Component: The Navigation component is used in this app since it contains one main activity with multiple fragment destinations. This component helps manage all the fragments.
 - RecyclerView : To present the list of different periods we used the efficient recyclerview.
 - LiveData & Room Database : We are also using LiveData to update & observe changes in the time-table according to real time and update it to local databases using Room. 
 - Firebase : For user data, authentication and also for storing data of time-table.
 
 <br/>
+
+<b> Constraint : </b>
+This app currently works only for the timetable of CSE department from BIT-Durg and contains the database only for 3rd semester and 5th semester.
+
+
 
 <b> Application Link & Future Scope : </b>
 
