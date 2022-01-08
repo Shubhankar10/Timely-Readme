@@ -59,10 +59,9 @@ Once the app is fully tested and functional in our institute, we will plan to ta
 This project was developed under <b>Android Study Jams</b> organised by Google Developers Student Club, BIT Durg. <br>
 Thankyou!
 
-🙈🙉🙊
 ## Developed By : <br>
-[Saurabh Yadav](https://www.linkedin.com/in/saurabh-yadav-73616b137/) 🐵<br>
-[Krish Chopra](https://www.linkedin.com/in/krishchopra22) 🦁<br>
-[Shubhankar Tiwary](https://www.linkedin.com/in/shubhankar10) 🐙<br>
-[Chaitanya Rao](https://www.linkedin.com/in/chaitanya-rao-375b30207) 🐴<br>
+[Saurabh Yadav](https://www.linkedin.com/in/saurabh-yadav-73616b137/) <br>
+[Krish Chopra](https://www.linkedin.com/in/krishchopra22) <br>
+[Shubhankar Tiwary](https://www.linkedin.com/in/shubhankar10) <br>
+[Chaitanya Rao](https://www.linkedin.com/in/chaitanya-rao-375b30207) <br>
 
